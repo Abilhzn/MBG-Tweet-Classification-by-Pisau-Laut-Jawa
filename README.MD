@@ -36,7 +36,7 @@ Pastikan Anda memiliki lingkungan Python $\ge$ 3.8 dan runtime GPU (sangat direk
 Instal seluruh dependensi pustaka dengan menjalankan perintah berikut:
 ```bash
 pip install -r requirements.txt
-
+```
 
 ---
 
