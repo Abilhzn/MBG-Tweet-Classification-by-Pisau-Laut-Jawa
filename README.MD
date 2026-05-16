@@ -5,9 +5,9 @@ Repositori ini berisi solusi lengkap untuk **Case 1: Multiclass Text Classificat
 ---
 
 ## **Anggota Tim**
-* Muhammad Abil Hasan
-* Kevin Jonathan Rotty
-* Yan Adhinaya Ardika
+* Muhammad Abil Hasan - [@Abilhzn](https://github.com/Abilhzn)
+* Kevin Jonathan Rotty - [@KevinJonathanR](https://github.com/KevinJonathanR)
+* Yan Adhinaya Ardika - [@yanardika](http://github.com/yanardika)
 
 ---
 
