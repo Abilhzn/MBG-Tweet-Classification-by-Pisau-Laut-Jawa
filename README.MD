@@ -36,3 +36,9 @@ Pastikan Anda memiliki lingkungan Python $\ge$ 3.8 dan runtime GPU (sangat direk
 Instal seluruh dependensi pustaka dengan menjalankan perintah berikut:
 ```bash
 pip install -r requirements.txt
+
+
+---
+
+## **Source Code & Hasil Prediksi**
+Untuk **source code** merupakan file `MBG_classification_notebook.ipynb` yang ada di root repositori ini. Dan untuk **hasil prediksi** ada di dalam folder `prediction`.
